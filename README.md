@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Simple React Counter app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshots of project
+
+![Index of Counter App](public\images\screenshot-one.png)
+![Incrementing the counter](public/images/increment-screenshot.png)
+![Decrementing the counter](public/images/decrement-screenshot.png)
 
 ## Available Scripts
 
